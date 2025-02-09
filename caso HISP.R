@@ -1,6 +1,7 @@
+# GOB2006: Curso Evaluación de impacto de las políticas públicas. 
 # Evaluación de Impacto en la Práctica
-# Estudio de caso HISP
-# Ejercicios Aplicados
+# Estudio de caso HISP. Paso a paso: 
+
 
 # Limpiar el ambiente
 rm(list = ls())
